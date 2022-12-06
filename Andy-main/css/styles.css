@@ -13,17 +13,17 @@
     --orange: #F7B731;
     --blue: rgb(65, 103, 241);
     --pink: #E77ED9;
-    --green: #11AC84;
-    --white: #FFFFFF;
-    --white-2: #E8E8E8;
-    --white-dark: #F8F8F8;
+    --green: #ac1152;
+    --white: #5ba705;
+    --white-2: #020701;
+    --white-dark: #cdf100;
     --black: #000000;
     --gray: #666666;
     --gray-light: #888888;
     --gray-dark: #474747;
-    --gradient-1: linear-gradient(120.98deg, #9185F8 0%, #F2BFF4 58.06%, #8BBBFE 87.28%);
-    --gradient-2: linear-gradient(120.98deg, #FFC969 0%, #FF96E1 87.28%);
-    --gradient-3: linear-gradient(120.98deg, #2898E5 0%, #FFC6F3 58.06%, #FBAE31 87.28%);
+    --gradient-1: linear-gradient(120.98deg, #000000 0%, #0f0b0f 58.06%, #000000 87.28%);
+    --gradient-2: linear-gradient(120.98deg, #141009 0%, #140e13 87.28%);
+    --gradient-3: linear-gradient(120.98deg, #010305 0%, #110b10 58.06%, #020101 87.28%);
 
     /* Typography */
     --font-family: 'ClashGrotesk';
